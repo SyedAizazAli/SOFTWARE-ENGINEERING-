@@ -1,2 +1,2 @@
-# SOFTWARE-ENGINEERING-
+# SOFTWARE-ENGINEERING
 Java Calculator Project
