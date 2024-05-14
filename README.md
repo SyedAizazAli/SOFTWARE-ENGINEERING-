@@ -7,7 +7,7 @@ We also write a JUnit test to test Calculator implementation logic<br>
 - Java 8+
 - IDE - Eclipse or IntelliJ IDEA
 - JUnit 5 Framework
-- visual Studio code
+- visual Studio 
 
 <h1>Prepared By: Aizaz Ali Shah</h1>
 <b>Group Members:</b>
