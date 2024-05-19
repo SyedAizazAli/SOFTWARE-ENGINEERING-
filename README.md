@@ -22,7 +22,7 @@ You can then execute the compiled class file to launch the application.
 - JUnit 5 Framework
 - visual Studio
 
-<h1>Prepared By: Aizaz Ali Shah</h1>
-<b>Group Members:</b>
-- Syed Ghlum Murtaza Shah
-- Syed Raza Abbas Shah
+<h1>Prepared By: Aizaz Ali Shah (2k23/CSME/5) </h1>
+<b>Group Member:</b>
+- Tanveer Ali 
+Roll no: 2k23/CSEE/69
